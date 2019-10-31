@@ -2,7 +2,7 @@
   "name": "stardust4ipfs",
   "version": "0.1.0",
   "description": "Add stardust to *your* IPFS bundle",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
