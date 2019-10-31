@@ -12,5 +12,9 @@
     "libp2p"
   ],
   "author": "Maciej Krüger <mkg20001@gmail.com>",
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
+  "dependencies": {
+    "dlv": "^1.1.3",
+    "libp2p-stardust": "^0.1.2"
+  }
 }
