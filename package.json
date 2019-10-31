@@ -1,6 +1,6 @@
 {
   "name": "stardust4ipfs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Add stardust to *your* IPFS bundle",
   "main": "index.js",
   "scripts": {
