@@ -25,7 +25,7 @@ module.exports = ({ datastore, peerInfo, peerBook, options, config }) => {
       transport: [
         stardust
       ],
-      discovery: [
+      peerDiscovery: [
         stardust.discovery
       ]
     }
