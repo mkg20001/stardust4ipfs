@@ -13,6 +13,7 @@ module.exports = ({ datastore, peerInfo, peerBook, options, config }) => {
   })
 
   return {
+    extend: true,
     config: {
       peerDiscovery: {
         stardust: {
